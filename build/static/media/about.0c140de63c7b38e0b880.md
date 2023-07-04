@@ -1,7 +1,7 @@
 
 # Intro
 
-Hey there! I'm a 22-year-old software engineer from the UK, working with Anaplan and having a blast with Rust and Kubernetes. We're on a mission to go fully cloud-native and it's pretty exciting stuff.
+Hey there! I'm a 22-year-old software engineer from the UK, working at Anaplan and having a blast with Rust and Kubernetes. We're on a mission to go fully cloud-native and it's pretty exciting stuff.
 
 &nbsp;
 
