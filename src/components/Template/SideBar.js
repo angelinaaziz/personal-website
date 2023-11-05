@@ -19,7 +19,7 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Angelina. I am a software engineer at <a href="https://anaplan.com">Anaplan</a> in London.
+      <p>Hi, I&apos;m Angelina. I am a software engineer at <a href="https://anaplan.com">Legal & General</a> in London.
         Currently pursuing a masters in Systems Engineering at <a href="https://www.lboro.ac.uk">Loughborough University</a>.
         I am the co-founder of <a href="https://www.auralyze.ai">auralyze.ai</a> an AI university interview prep platform.
       </p>
