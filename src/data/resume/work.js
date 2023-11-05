@@ -14,6 +14,15 @@
 const work = [
   {
     name: 'Anaplan',
+    position: 'Senior Platform Engineer',
+    url: 'https://www.legalandgeneral.com/',
+    startDate: '2023-10-25',
+    summary: 'Legal & General is a British multinational financial services company. I work on the platform team with Azure, moving lGRI into a more modern cloud environment.',
+    highlights: [
+    ],
+  },
+  {
+    name: 'Anaplan',
     position: 'Platform Engineer (Associate Software Engineer)',
     url: 'https://anaplan.com',
     startDate: '2022-10-01',

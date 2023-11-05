@@ -19,7 +19,7 @@ const sections = {
 const Resume = () => (
   <Main
     title="Resume"
-    description="Angelina Aziz's Resume. London based Software Engineer at Anaplan, intent on learning and growing."
+    description="Angelina Aziz's Resume. London based Senior Platform Engineer at Legal & General, intent on learning and growing."
   >
     <article className="post" id="resume">
       <header>

@@ -27,7 +27,7 @@ const data = [
   {
     key: 'countries',
     label: 'Countries visited',
-    value: 12,
+    value: 15,
   },
   {
     key: 'location',
@@ -37,7 +37,7 @@ const data = [
   {
     key: 'Books',
     label: 'Number of Books read in 2023',
-    value: 13,
+    value: 17,
   },
 ];
 
