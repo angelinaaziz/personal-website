@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
-import { Inter, Fira Code } from "next/font/google";
+import { Inter, Fira_Code } from "next/font/google";
 import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
-const firaCode = Fira Code({
+const firaCode = Fira_Code({
   subsets: ["latin"],
   variable: "--font-fira-code",
   weight: ["300", "400", "500", "600", "700"]
